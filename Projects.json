@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0",
+        "title": "Rangka Web Straming Sederhana Dengan Python",
+        "description": "Jadi saya menggunakan Python Flask sebagai BackEnd dan JSON sebagai DataBase. Web ini menyediakan beberapa categori dan playlist. User akan memilih categori dan memutar video dari playlist. Admin bisa mengupload categori, playlist dan video baru beserta thumbnail dari route admin, saya tidak menyediakan keamanan karena hanya untuk eksperimen. Saya terinspirasi dari Website LK21.",
+        "image": "./Asset/StrW1PY.png",
+        "link": "https://www.tiktok.com/@danttee_/video/7620713816682188040?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
+    },
+    {
+        "id": "1",
+        "title": "Web POS sederhana dengan JavaScript",
+        "description": "Jadi saya menggunakan JavaScript sebagai BackEnd atau Logic dari website. Web ini ada karena saya bereksperimen dengan JavaScript, cara mengakses DataBase dan memahami sistem POS.",
+        "image": "./Asset/POSW1JS.png",
+        "link": "https://www.tiktok.com/@danttee_/video/7632901658736905493?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
+    },
+    {
+        "id": "2",
+        "title": "Web Register Sederhana dengan PHP",
+        "description": "Jadi saya menggunakan Php sebagai Backend, JSON sebagai DataBase dan Xampp untuk menjalankan file Php. Jadi logikanya User akan melihat List member IT Nerd dan bisa registrasi. Saat registrasi user di minta meng-Input nama, tingkat dan kelas. Data tersebut akan di simpan ke Json oleh Php. Data kemudian akan di loop oleh Php untuk ditampilkan di Web. Saya membuat projek ini untuk menambah pemahaman tentang cara kerja Php dan bagaimana cara mengakses DataBase dengan Php.   ",
+        "image": "./Asset/RegW1Php.png",
+        "link": "https://www.tiktok.com/@danttee_/video/7636020737500843284?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
+    },
+    {
+        "id":"3",
+        "title":"Menyalakan LED dengan WEB dari ESP",
+        "description":"Projek ini di buat untuk menambah pemahaman tentang cara kerja Micro Controller dan IOT. Saya membuat Esp sebagai AP(Accest Point), jadi saat masuk ke dalam wifi, user akan mendapat Notifikasi atau akses ke Web yang akan menjadi Control dari LED yang ada di ESP8266.",
+        "image":"./Asset/Iot.png",
+        "link":"https://www.tiktok.com/@danttee_/video/7615839500228545800?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
+
+    },
+    {
+        "id":"4",
+        "title":"Robot Line Follower Sederhana",
+        "description":"",
+        "image":"./Asset/RSW1Gd.png",
+        "link":"https://www.tiktok.com/@danttee_/video/7643401754075335957?is_from_webapp=1&sender_device=pc&web_id=7644581322715530770"
+    }
+]
